@@ -1,0 +1,301 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    overflow: hidden;
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+
+.logo{
+
+float: left;
+
+width: 20px;
+}
+
+.menu{
+
+float: right;
+
+overflow: hidden;
+
+width: 50%;
+}
+
+.menu ul {
+    list-style: none;
+    float: right;
+    overflow: hidden;
+}
+
+.menu ul li{
+    float: left;
+    margin-left: 50px;
+}
+
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+    float: right;
+    text-transform: uppercase;
+}
+
+.banner{
+    width: 100%;
+    margin-top: 80px;
+}
+
+
+
+.banner{
+    width: 90%;
+    margin:auto;
+    margin-top: 30px;
+}
+.banner img{
+    width: 100%;
+
+}
+
+.photodiary{
+    
+width: 80%;
+    
+margin: auto;
+}
+
+.photodiary h5{color: #626262;text-transform: uppercase;font-size: 15px;margin-top: 40px;}
+
+.photodiary h1{color: #626262;margin-top: 20px;}
+
+.photodiary p{margin-top: 15px;color: #626262;line-height: 22px;margin-bottom: 40px;}
+
+.photodiary a{color: #626262;font-size: 18px;text-transform: uppercase;text-decoration: none;font-weight: 500;}
+
+.lifestyle{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+margin-top: 50px;
+}
+
+.lifestyle_item{
+
+width: 48%;
+}
+
+.lifestyle_item img{
+
+width: 100%;
+
+margin-top: 30px;
+}
+
+.lifestyle_item h5{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+margin-top: 30px;
+}
+
+.lifestyle_item h1{
+
+margin-top: 15px;
+
+color: #626262;
+}
+
+.lifestyle_item p{
+
+margin-top: 15px;
+
+color: #626262;
+
+font-size: 15px;
+}
+
+
+/* dream part start */
+
+.dream{
+
+    width: 80%;
+    
+    margin: auto;
+    
+    display: flex;
+    
+    justify-content: space-between;
+    
+    margin-top: 50px;
+    }
+    
+    .dream_item{
+    
+    width: 48%;
+    }
+    
+    .dream_item img{
+    
+    width: 100%;
+    }
+    
+    .dream_item h5{
+    
+    color: #b4ad9e;
+    
+    text-transform: uppercase;
+    
+    margin-top: 30px;
+    }
+    
+    .dream_item h1{
+    
+    margin-top: 15px;
+    
+    color: #626262;
+    }
+    
+    .dream_item p{
+    
+    margin-top: 15px;
+    
+    color: #626262;
+    
+    font-size: 15px;
+    }
+
+
+/* newslatter start */
+
+.newslatter{
+
+background-color: #e8e8e8;
+
+margin-top: 80px;
+
+padding: 70px 0;
+}
+
+.newslatter_content{width: 21%;margin: auto;}
+
+.newslatter_content h1{
+    
+margin-top: 15px;
+    
+color: #313131;
+    
+font-weight: 500;
+    
+margin-bottom: 60px;
+}
+
+.newslatter_content input{
+    
+border: none;
+    
+border-bottom: 1px solid #626262;
+    
+width: 100%;
+    
+padding-bottom: 7px;
+    
+background: transparent;
+}
+
+.loadmore{
+
+padding: 100px;
+
+text-align: center;
+
+margin-top: 60px;
+
+background-color: #e8e8e8;
+}
+
+.loadmore button{padding: 15px 20px;background-color: transparent;border: 1px solid #606060;color: #262525;font-weight: 600;font-size: 16px;}
+
+
+footer{
+    background: #000000;
+    margin-top: auto;
+    padding: 30px 0;
+}
+
+.footer_content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.terms{
+    width: 30%;
+}
+
+.terms ul{
+
+list-style: none;
+
+display: flex;
+}
+
+.terms ul li{
+    margin-right: 15px;
+}
+
+.terms ul li a{
+
+text-decoration: none;
+
+color: #626262;
+}
+
+.social_icon{
+    width: 30%;
+}
+
+.social_icon ul{
+
+display: flex;
+
+justify-content: end;
+}
+
+.social_icon ul li{
+
+list-style: none;
+
+color: #626262;
+
+margin: 0px 12px;
+}
+
+.asif{
+
+margin-left: -30px;
+
+font-size: larger;
+
+font-weight: 600;
+}
+
+.asif li{
+    
+list-style: none;
+    
+color: #626262;
+}

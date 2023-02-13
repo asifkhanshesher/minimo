@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    background-color:royalblue;
+    text-align: center;
+}
+
+.nickname{
+    overflow: hidden;
+}
+
+.left{
+    height: 200px;
+    width: 30%;
+    background-color: plum;
+    text-align: center;
+    color: aliceblue;
+    float: left;
+}
+
+.middle{
+    height: 200px;
+    width: 40%;
+    background-color:purple;
+    text-align: center;
+    color: aliceblue;
+    float: left;
+}
+
+.right{
+    height: 200px;
+    width: 30%;
+    background-color:plum;
+    text-align: center;
+    color: aliceblue;
+    float: right;
+}
+
+.pic{
+    width: 30%;
+}
+
+.leftimg{
+    height: 200px;
+    width: 50%;
+    background-color: grey;
+    text-align: center;
+    float: left;
+}
+
+.rightimg{
+    height: 200px;
+    width: 50%;
+    background-color: rgb(230, 127, 127);
+    text-align: center;
+    float: right;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align:center;
+    float:right;
+    color: aliceblue;
+    
+}
